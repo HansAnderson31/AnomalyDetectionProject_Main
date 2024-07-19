@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AnomalyDetectionProject_Main", "AnomalyDetectionProject_Main\AnomalyDetectionProject_Main.pyproj", "{2006286A-9247-4D25-956D-A7907DD1D8C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2006286A-9247-4D25-956D-A7907DD1D8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2006286A-9247-4D25-956D-A7907DD1D8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76D3F6F4-80D8-4825-81A0-13C53B045D0A}
+	EndGlobalSection
+EndGlobal
